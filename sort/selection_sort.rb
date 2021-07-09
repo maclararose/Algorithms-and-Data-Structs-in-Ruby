@@ -34,7 +34,11 @@ test1 = [1,2,3,4,5,6,7,8,9]
 
 # Randow test
 test2 = [3,4,10,0]
+test3 = []
+test4 = [1]
 
 p selection(test0)
 p selection(test1)
 p selection(test2)
+p selection(test3)
+p selection(test4)

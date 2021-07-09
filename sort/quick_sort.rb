@@ -26,7 +26,12 @@ test1 = [1,2,3,4,5,6,7,8,9]
 
 # Randow test
 test2 = [3,4,10,0]
+test3 = []
+test4 = [1]
+
 
 p test0.quicksort
 p test1.quicksort
 p test2.quicksort
+p test3.quicksort
+p test4.quicksort
