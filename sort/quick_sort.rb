@@ -2,7 +2,7 @@
  Quick Sort implementation: rearranges the keys so that the "minor" keys precede the "major" keys. 
  Then quicksort sorts the two sublists of minor and major keys recursively until the complete list is sorted.
 
- Complexity: O(n²) in the best and worst case
+ Complexity: O(n²) in the best and worst case.
 
  Author: Maria Clara B.
 =end

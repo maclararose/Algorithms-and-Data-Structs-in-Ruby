@@ -3,7 +3,7 @@
  then the second smallest value for the second position, 
  and so it is done successively with the remaining n-1 elements.
 
- Complexity: O(n²) in the best and worst case
+ Complexity: O(n²) in the best and worst case.
 
  Author: Maria Clara B.
 =end

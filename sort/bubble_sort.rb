@@ -1,6 +1,8 @@
 =begin
  Bubble Sort implementation: change adjacent elements if they are in wrong order.
- Complexity: O(n²) in the best and worst case
+
+ Complexity: O(n²) in the best and worst case.
+  
  Author: Maria Clara B.
 =end
 

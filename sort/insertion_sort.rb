@@ -3,7 +3,7 @@
  The array is virtually split into a sorted and an unsorted part. 
  Values from the unsorted part are picked and placed at the correct position in the sorted part." - Geek for geeks
 
- Complexity: O(n²) in the best and worst case
+ Complexity: O(n²) in the best and worst case.
 
  Author: Maria Clara B.
 =end
